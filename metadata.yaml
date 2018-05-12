@@ -1,4 +1,8 @@
 _repo: Oesterreich-im-Jahre-2020-Socialpolitischer-Roman_49395
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49395-h/images/cover.jpg
 creator:
   author:
     agent_name: Neupauer, Josef von
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45312'
     url: http://www.gutenberg.org/2009/agents/45312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49395#Oesterreich-im-Jahre-2020-Socialpolitischer-Roman
 gutenberg_issued: '2015-07-08'
 gutenberg_type: Text
 identifiers:
